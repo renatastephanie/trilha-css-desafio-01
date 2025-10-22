@@ -26,4 +26,4 @@ Basta abrir o arquivo `index.html` em seu navegador de preferência.
 
 Você pode visualizar o projeto finalizado através do link abaixo:
 
-[Link para o projeto](LINK_DO_SEU_PROJETO_AQUI)
+[Clique aqui](https://trilha-css-desafio-01-pi.vercel.app/)
